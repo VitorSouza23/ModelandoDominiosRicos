@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PaymentContext.Domain", "PaymentContext.Domain", "{6071C1F7-4725-4A5D-AFCF-F74B73A0D8AB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PaymentContext.Shared", "PaymentContext.Shared", "{15F97CF3-9D72-41E5-8CA6-4568669C6791}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PaymentContext.Tests", "PaymentContext.Tests", "{49B193FB-F2D3-4ABA-8715-4A53592E3542}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40823E32-2BBA-4365-B235-73643FD30FB7}
+	EndGlobalSection
+EndGlobal
